@@ -1,8 +1,7 @@
-### Opa meus queridos, sejam muito bem vindos, eu sou o Paulo 👋
+<h3> Opa meus queridos, sejam muito bem vindos, eu sou o Paulo 👋 </h3>
 
-- 🔭 Eu atualmente trabalho como técnico em metrologia focado em equipamentos médicos (em transição de carreira para virar Desenvolvedor Back-end)
-- 🌱 Atualmente estou aprendendo Programação orientada a objetos em C# na @alura
-- 👯 Cursando Engenharia da Computação
+- 🔭 Eu atualmente trabalho como técnico em metrologia focado em equipamentos médicos (em transição de carreira em busca de me tornar Desenvolvedor Back-end)
+- 🌱 Atualmente estou aprendendo Programação orientada a objetos em C# na Alura
 - 💬 Em busca do meu primeiro emprego no ramo da programação
 
 - Minhas redes sociais: <br>
