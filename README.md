@@ -17,12 +17,13 @@ US
 <a href="https://github-readme-stats.vercel.app/api?username=o-verissimo&hide=contribs,prs&show_icons=true&theme=github_dark&locale=pt-br">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=o-verissimo&rank_icon=github&hide=contribs,prs&show_icons=true&theme=github_dark&locale=pt-br" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=o-verissimo&hide_progress=true&theme=github_dark&locale=pt-br">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-verissimo&hide_progress=true&theme=github_dark&locale=pt-br" />
-</a>
 <a href="https://picasion.com/">
   <img align="center" src="https://i.picasion.com/pic92/eb148157d9941f66746acfdedd6bfd4e.gif" width="120" height="120" border="0" alt="https://picasion.com/" />
 </a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=o-verissimo&hide_progress=true&theme=github_dark&locale=pt-br">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-verissimo&hide_progress=true&theme=github_dark&locale=pt-br" />
+</a>
+
 <hr>
 <div style="display: inline_block">
   <img align="center" alt="Paulo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
