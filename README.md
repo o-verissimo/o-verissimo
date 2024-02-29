@@ -13,7 +13,7 @@ US
 - 🔭 I currently work as a metrology technician focused on medical equipment (transitioning careers to become a Back-end Developer).
 - 🌱 Currently, I'm learning back-end programming with a focus on C# at Alura.
 - 💬 Seeking my first job in the programming field.
-
+<hr>
 <a href="https://github-readme-stats.vercel.app/api?username=o-verissimo&hide=contribs,prs&show_icons=true&theme=github_dark&locale=pt-br">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=o-verissimo&rank_icon=github&hide=contribs,prs&show_icons=true&theme=github_dark&locale=pt-br" />
 </a>
@@ -21,7 +21,7 @@ US
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-verissimo&hide_progress=true&theme=github_dark&locale=pt-br" />
 </a>
 <a href="https://picasion.com/">
-  <img align="center" src="https://i.picasion.com/pic92/eb148157d9941f66746acfdedd6bfd4e.gif" width="200" height="200" border="0" alt="https://picasion.com/" />
+  <img align="center" src="https://i.picasion.com/pic92/eb148157d9941f66746acfdedd6bfd4e.gif" width="120" height="120" border="0" alt="https://picasion.com/" />
 </a>
 <hr>
 <div style="display: inline_block">
