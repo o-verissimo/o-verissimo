@@ -24,4 +24,6 @@
   <a href="https://github.com/o-verissimo"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="40" height="40"></a>
 
 - Contact:
-  paulo.vitor.v.pereira@outlook.com 
+  paulo.vitor.v.pereira@outlook.com
+
+  ![Snake animation](https://github.com/o-verissimo)
