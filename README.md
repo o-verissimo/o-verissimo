@@ -6,15 +6,6 @@ BR
 - 💬 Em busca do meu primeiro emprego no ramo da programação
 
 <hr>
-US
-
-## Hi my friends, welcome, i'm Paulo 👋 
-
-- 🔭 I currently work as a metrology technician focused on medical equipment (transitioning careers to become a Back-end Developer).
-- 🌱 Currently, I'm learning back-end programming with a focus on C# at Alura.
-- 💬 Seeking my first job in the programming field.
-
-<hr>
 <div> 
   <a href="https://www.instagram.com/o_verissimo_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:paulo.vitor.v.pereira@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
