@@ -22,7 +22,7 @@ US
 </div>
 </br></br>
 <a href="https://github-readme-stats.vercel.app/api?username=o-verissimo&hide=contribs,prs&show_icons=true&theme=github_dark&locale=pt-br">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=o-verissimo&rank_icon=github&hide=contribs,prs&show_icons=true&theme=github_dark&locale=pt-br" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=o-verissimo&rank_icon=github&show_icons=true&theme=github_dark&locale=pt-br" />
 </a>
 <a href="https://picasion.com/">
   <img align="center" src="https://i.picasion.com/pic92/eb148157d9941f66746acfdedd6bfd4e.gif" width="150" height="150" border="0" alt="https://picasion.com/" />
