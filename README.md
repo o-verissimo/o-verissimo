@@ -27,6 +27,7 @@ US
 <a href="https://picasion.com/">
   <img align="center" src="https://i.picasion.com/pic92/eb148157d9941f66746acfdedd6bfd4e.gif" width="150" height="150" border="0" alt="https://picasion.com/" />
 </a>
+</br></br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=o-verissimo&hide_progress=true&theme=github_dark&locale=pt-br">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-verissimo&hide_progress=true&theme=github_dark&locale=pt-br" />
 </a>
