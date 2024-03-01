@@ -20,7 +20,7 @@ US
   <a href = "mailto:paulo.vitor.v.pereira@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulo-vitor-v-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-</br></br>
+</br>
 <a href="https://github-readme-stats.vercel.app/api?username=o-verissimo&hide=contribs,prs&show_icons=true&theme=github_dark&locale=pt-br">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=o-verissimo&rank_icon=github&hide=contribs,prs&show_icons=true&theme=github_dark&locale=pt-br" />
 </a>
@@ -36,11 +36,7 @@ US
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/o-verissimo/o-verissimo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/o-verissimo/o-verissimo/output/github-contribution-grid-snake.svg">
 </picture>
-<hr>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=o-verissimo&hide_progress=true&theme=github_dark&locale=pt-br">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-verissimo&hide_progress=true&theme=github_dark&locale=pt-br" />
-</a>
-</br></br>
+</br>
 <a href="https://github.com/o-verissimo/Aplicativos_WindowsForms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=o-verissimo&repo=Aplicativos_WindowsForms&theme=github_dark" />
 </a>
