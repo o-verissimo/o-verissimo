@@ -20,7 +20,7 @@ BR
 </a>
 </br></br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=o-verissimo&hide_progress=true&theme=github_dark&locale=pt-br">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-verissimo&hide_progress=true&theme=github_dark&locale=pt-br" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-verissimo&layout=compact&theme=github_dark&locale=pt-br" />
 </a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/o-verissimo/o-verissimo/output/github-contribution-grid-snake-dark.svg">
