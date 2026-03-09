@@ -12,34 +12,19 @@ BR
   <a href="https://www.linkedin.com/in/paulo-vitor-v-pereira/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 </div>
 </br>
-<a href="https://github-readme-stats.vercel.app/api?username=o-verissimo&hide=contribs,prs&show_icons=true&theme=github_dark&locale=pt-br">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=o-verissimo&rank_icon=github&hide=contribs,prs&show_icons=true&theme=github_dark&locale=pt-br" />
-</a>
+
 <a href="https://picasion.com/">
   <img align="center" src="https://i.picasion.com/pic92/eb148157d9941f66746acfdedd6bfd4e.gif" width="150" height="150" border="0" alt="https://picasion.com/" />
 </a>
 </br></br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=o-verissimo&hide_progress=true&theme=github_dark&locale=pt-br">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-verissimo&layout=compact&theme=github_dark&locale=pt-br" />
-</a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/o-verissimo/o-verissimo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/o-verissimo/o-verissimo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/o-verissimo/o-verissimo/output/github-contribution-grid-snake.svg">
 </picture>
 </br>
-<a href="https://github.com/o-verissimo/Aplicativos_WindowsForms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=o-verissimo&repo=Aplicativos_WindowsForms&theme=github_dark" />
-</a>
-<a href="https://github.com/o-verissimo/ScreenSound">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=o-verissimo&repo=ScreenSound&theme=github_dark" />
-</a>
-<a href="https://github.com/o-verissimo/spotify-react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=o-verissimo&repo=spotify-react&theme=github_dark" />
-</a>
-<a href="https://github.com/o-verissimo/ScreenSound-Manipulando-API">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=o-verissimo&repo=ScreenSound-Manipulando-API&theme=github_dark" />
-</a>
+
 
 
 
