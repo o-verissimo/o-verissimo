@@ -1,8 +1,8 @@
 BR
 ## Opa meus queridos, sejam bem vindos, eu sou o Paulo 👋🏼
 
-- 🔭 Eu atualmente trabalho como técnico em metrologia focado em equipamentos médicos (em transição de carreira em busca de me tornar Desenvolvedor Back-end)
-- 🌱 Atualmente estou aprendendo Programação com foco no back-end com C# na Alura
+- 🔭 Eu atualmente trabalho como técnico em equipamentos médicos (em transição de carreira em busca de me tornar Desenvolvedor Back-end)
+- 🌱 Atualmente estou aprendendo Programação com foco no back-end com Java
 - 💬 Em busca do meu primeiro emprego no ramo da programação
 
 <hr>
